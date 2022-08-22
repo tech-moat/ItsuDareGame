@@ -66,6 +66,5 @@ class ViewController: UIViewController {
         daregaLabel.text = daregaArray[daregaIndex]
         doshitaLabel.text = doshitaArray[doshitaIndex]
     }
-
 }
 
